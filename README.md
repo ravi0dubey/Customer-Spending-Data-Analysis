@@ -1,6 +1,4 @@
-# Data-Analysis
-
-**Customer Spend Analysis **
+# Customer Spending Analysis
 
 **Requirement :** From available dataset of orders we need to figure out all Young and Senior citizens whose average daily spending is less than **6$**.
 Marketing team will reach out to the targeted Audience and offer some exciting plans.
